@@ -75,7 +75,8 @@ article{
 .producto_imagen{
     width: 300px;
     height: 300px;
-    align-items: column;
+    display: block;
+    
     
 }
 .contenedor_columnas{
@@ -205,6 +206,9 @@ div#item5{
     }
     
     
+}
+.p{
+    margin-top: 16px;
 }
     
     
