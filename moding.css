@@ -1,6 +1,9 @@
 body{
-    
     background-color: white;
+    background-image: url(imagenes/pasteles3.jpg);
+    background-size: cover;
+   
+
     margin: 0%;
     
 }
@@ -9,6 +12,8 @@ article{
 }
 .flex{
     display: flex;
+    
+    
 }
 .block{
     display: block;
@@ -210,5 +215,20 @@ div#item5{
 .p{
     margin-top: 16px;
 }
-    
+.p_horarios{
+    font-size: 35px;
+}
+.div_horarios{
+    margin: 5px;
+    border: 1px solid black;
+    height: 70vh;
+    width: 500vh;
+}
+.img_horarios{
+    margin-top: 5px;
+    width: 432px;
+    height: 320px;
+
+}
+
     
