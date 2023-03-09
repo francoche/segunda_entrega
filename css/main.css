@@ -106,12 +106,16 @@ article {
   height: auto;
   border: solid 10px rgb(162, 235, 181);
 }
-
+.contenedor{
+  width: 75vw;
+  max-width: 10000px;
+  min-width: 320px;
+  margin: auto;
+  }
 .imagen_inicio {
   width: 100%;
-  height: 100%;
   padding: 10px;
-  align-items: center;
+ 
 }
 
 .icono {
@@ -253,5 +257,6 @@ img {
 .icono_quienes {
   border-radius: 0%;
 }
+
 
 /*# sourceMappingURL=main.css.map */
